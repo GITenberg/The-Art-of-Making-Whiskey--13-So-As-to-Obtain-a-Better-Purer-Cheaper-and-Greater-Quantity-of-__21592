@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24797'
     url: http://www.gutenberg.org/2009/agents/24797
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21592#The-Art-of-Making-Whiskey--13-So-As-to-Obtain-a-Better-Purer-Cheaper-and-Greater-Quantity-of-_
 gutenberg_bookshelf:
 - Technology
 - Crafts
